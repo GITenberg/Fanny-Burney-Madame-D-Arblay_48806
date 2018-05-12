@@ -1,4 +1,8 @@
 _repo: Fanny-Burney-Madame-D-Arblay_48806
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48806-h/images/cover.jpg
 creator:
   author:
     agent_name: Dobson, Austin
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2155
     wikipedia: http://en.wikipedia.org/wiki/Henry_Austin_Dobson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48806#Fanny-Burney-Madame-D-Arblay
 gutenberg_issued: '2015-04-27'
 gutenberg_type: Text
 identifiers:
